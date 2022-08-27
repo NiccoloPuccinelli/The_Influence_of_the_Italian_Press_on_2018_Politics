@@ -9,3 +9,5 @@ The project was carried out using both **Python** and the **Tableau** platform, 
 Check out the visualization here (use a PC or a laptop): https://public.tableau.com/app/profile/niccol.3340/viz/Linfluenzadellastampaitalianasulrisultatodel4Marzo/Titolo
 
 Final grade: **27**.
+
+Furthermore, there is a png file containing an **optional** visualization carried out individually during the course.

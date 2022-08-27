@@ -6,7 +6,7 @@ The project, carried out together with my colleagues **Matteo Anedda**, **Greta 
 
 The project was carried out using both **Python** and the **Tableau** platform, combining everything in a single tableau public dashboard.
 
-Check out the visualization here (use a PC or a laptop): https://public.tableau.com/app/profile/niccol.3340/viz/Linfluenzadellastampaitalianasulrisultatodel4Marzo/Titolo
+Check out the visualization here (use a PC or a laptop): https://public.tableau.com/app/profile/niccol.3340/viz/Linfluenzadellastampaitalianasulrisultatodel4Marzo/Titolo.
 
 Final grade: **27**.
 
